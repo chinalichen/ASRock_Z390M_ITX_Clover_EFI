@@ -10,8 +10,9 @@
   - [HWMonitor](#hwmonitor)
 
 ## Images
-
-
+![system information](images_in_readme/system_info.png "System Information")
+![gpu acceleration](images_in_readme/gpu_acceleration.png)
+![chassis](images_in_readme/chassis.jpeg)
 
 ## Hardware
 
