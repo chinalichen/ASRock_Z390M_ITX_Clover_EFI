@@ -18,10 +18,10 @@
 
 | Item        | Model                                  |
 | ----------- | -------------------------------------- |
-| CPU         | Intel Core-5 9600KF                    |
-| MotherBoard | ASRock Z390M-ITX/ac                    |
+| CPU         | [Intel Core-5 9600KF](https://ark.intel.com/content/www/us/en/ark/products/190884/intel-core-i5-9600kf-processor-9m-cache-up-to-4-60-ghz.html)                    |
+| MotherBoard | [ASRock Z390M-ITX/ac](https://www.asrock.com/mb/Intel/Z390M-ITXac/index.asp)                    |
 | Wi-Fi       | BCM94360CS2 + NGFF-convertor           |
-| GPU         | Sapphire RX560XT 4G D5                 |
+| GPU         | [Sapphire RX560XT 4G D5](https://www.anandtech.com/show/14079/amd-launches-china-only-radeon-rx-560xt)                 |
 | RAM         | G.SKILL 32GB(16GB x 2) 2400MHz DDR4    |
 | SSD1        | Samsung PM981 (NVME) 256GB for Windows |
 | SSD2        | HP S700 500GB (SATA3.0) for Hackintosh |
@@ -31,7 +31,7 @@
 
 ## Wi-Fi and Bluetooth module
 
-ASRock Z390M-ITX/ac has a Intel Wi-Fi module(M.2 E-key) which can not driven by macOS. I replaced it by a BCM94360CS2.
+ASRock Z390M-ITX/ac has a Intel Wi-Fi module(M.2 E-key) which can not driven by macOS. I replaced it by a `BCM94360CS2`.
 
 ## What Works
 
