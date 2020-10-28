@@ -1,4 +1,4 @@
-# ASRock Z390M-ITX/ac macOS Catalina 10.15.3
+# ASRock Z390M-ITX/ac macOS Catalina 10.15.3~10.15.7
 
 **Table of contents**
 - [ASRock Z390M-ITX/ac macOS Catalina 10.15.3](#asrock-z390m-itxac-macos-catalina-10153)
