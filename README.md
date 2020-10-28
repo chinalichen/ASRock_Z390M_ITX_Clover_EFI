@@ -23,7 +23,7 @@
 | Wi-Fi       | BCM94360CS2 + NGFF-convertor           |
 | GPU         | [Sapphire RX560XT 4G D5](https://www.anandtech.com/show/14079/amd-launches-china-only-radeon-rx-560xt)                 |
 | RAM         | G.SKILL 32GB(16GB x 2) 2400MHz DDR4    |
-| SSD1        | Samsung PM981 (NVME) 256GB for Windows |
+| SSD1        | WD_BLACK SN750 NVME 500GB for Windows |
 | SSD2        | HP S700 500GB (SATA3.0) for Hackintosh |
 | Power       | FSP MS450                              |
 | Cooler      | be Quiet! BK008 Pure Rock Slim         |
